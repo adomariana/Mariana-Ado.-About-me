@@ -20,7 +20,7 @@ I have completed my thesis for the **Master’s in Education in Virtual Environm
 
 ## 📊 Data Analysis & Tech Skills
 
-My focus is on data analysis to streamline processes and deliver better results, working with tools such as:
+My focus is on data analysis to streamline processes, deliver better results and enhance experiences, working with tools such as:
 
 - **SQL & Relational Databases**  
 - **Power BI** for interactive dashboards and visual analytics  
